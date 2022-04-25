@@ -1,8 +1,8 @@
 # JAVA-SCRIPT-CLOCK
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/PriyanshuPanwarr/JAVA-SCRIPT-CLOCK.git)
-- Live Site URL: [Add live site URL here](https://priyanshupanwarr.github.io/JAVA-SCRIPT-CLOCK/)
+- Solution URL: [Solution](https://github.com/PriyanshuPanwarr/JAVA-SCRIPT-CLOCK.git)
+- Live Site URL: [Open](https://priyanshupanwarr.github.io/JAVA-SCRIPT-CLOCK/)
 
 
 
